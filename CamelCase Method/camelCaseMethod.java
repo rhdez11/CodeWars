@@ -7,7 +7,7 @@ public class Solution {
         
         StringBuilder str = new StringBuilder(string);
 		
-    		str.setCharAt(0, Character.toUpperCase(str.charAt(0)));
+    		str.setCharAt(0, Character.toLowerCase(str.charAt(0)));
     		int l= 0;
     		
     		for (int i=0; i<str.length();i++){
