@@ -1,3 +1,5 @@
+# Simple Fun #152: Invite More Women?
+
 King Arthur and his knights are having a New Years party. Last year Lancelot was jealous of Arthur, 
 because Arthur had a date and Lancelot did not, and they started a duel.
 
