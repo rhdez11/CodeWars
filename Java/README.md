@@ -20,3 +20,5 @@
 	
 	•	Playing with digits: find a positive integer k, if it exists, such as the sum of the digits 
 		of n taken to the successive powers of p is equal to k * n.
+		
+	•	Who likes it?: "like" system from Facebook
