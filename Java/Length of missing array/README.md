@@ -4,7 +4,6 @@ You get an array of arrays.
 If you sort the arrays by their length, you will see, that their length-values are consecutive.
 But one array is missing!
 
-
 You have to write a method, that return the length of the missing array.
 
 Example:
